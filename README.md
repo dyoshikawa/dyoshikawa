@@ -6,7 +6,7 @@ Hi there 👋 I'm a software developer in Japan. [Follow me on X](https://x.com/
 
 | Repo | Description |
 |------|-------------|
-| [rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) [![npm downloads](https://img.shields.io/npm/dt/rulesync)](https://www.npmjs.com/package/rulesync) | The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between other AI agents in both directions. | 
+| [rulesync](https://github.com/dyoshikawa/rulesync) ![GitHub Repo stars](https://img.shields.io/github/stars/dyoshikawa/rulesync?style=social) [![npm downloads](https://img.shields.io/npm/dt/rulesync)](https://www.npmjs.com/package/rulesync) | A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between different AI agents in both directions. | 
 
 ## Contributions
 
