@@ -1,4 +1,4 @@
-Hi there 👋 I'm a software developer in Japan. [Follow me on X](https://x.com/dyoshikawa1993) for more updates!
+Hi there 👋 I'm a software developer in Japan. [Follow me on X](https://x.com/dyoshikawa1993) for more updates! I have [another GitHub account](https://github.com/cm-dyoshikawa) for my work.
 
 [![dyoshikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyoshikawa)](https://github.com/anuraghazra/github-readme-stats)
 
